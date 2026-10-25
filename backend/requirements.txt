@@ -5,3 +5,4 @@ numpy>=1.26
 Pillow>=10
 tensorflow>=2.16,<2.19
 mediapipe>=0.10.14
+gunicorn
