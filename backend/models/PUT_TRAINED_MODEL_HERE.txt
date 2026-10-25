@@ -1,0 +1,1 @@
+After training in Google Colab, copy eye_cnn.keras into this folder.
